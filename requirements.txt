@@ -1,0 +1,7 @@
+matplotlib
+numpy
+ipykernel
+jupyter
+datasets
+tqdm
+transformers
